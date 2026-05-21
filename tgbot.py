@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('8676137303:AAG0TTMSkXlcczHY0xMq051OLvNOVgDtOP0')
+bot = telebot.TeleBot
 
 materials_db = {
     "штукатурка": {"расход": 8.5, "упаковка": 30},
